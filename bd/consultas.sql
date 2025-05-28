@@ -1,0 +1,1 @@
+/* Aca guarden todas las consultas sql y ponga para que sirve*/
